@@ -1,4 +1,8 @@
 # P;T 피땀눈물
+ [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/daehyun1023/Pit_WebProject"/></a>
+
+</div>
+
 
 ## 목차
 
